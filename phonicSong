@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>This is the phonic song</h1>
+    </header>
+    <main>
+        <ul  style="display: flex; gap: 10%;">
+            <li>
+                <img src="https://i.ytimg.com/vi/ptk68qC1woI/maxresdefault.jpg" alt="The A lettah" height="150px">
+                <br>
+                <p>
+                    A said Ay Ay Ay Ay Ay Ay. Apple...
+                </p>
+            </li>
+            <li>
+                <img src="https://i.ytimg.com/vi/XZT91-Q0nro/maxresdefault.jpg" alt="The B lettah" height="150px">
+                <br>
+                <p>
+                    B said Bah Bah Bah Bah Bah Bah. Ball...
+                </p>
+            </li>
+            <li>
+                <img src="https://i.ytimg.com/vi/Ynj6agLz9sg/maxresdefault.jpg" alt="The C lettah" height="150px">
+                <br>
+                <p>
+                    C said Kah Kah Kah Kah Kah Kah. Cat...
+                </p>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <p>
+            Wanna find the song? Here you are: <a href="https://www.youtube.com/watch?v=ptk68qC1woI">Phonic song</a>
+        </p>
+    </footer>
+</body>
+</html>
